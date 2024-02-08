@@ -1,8 +1,7 @@
-# React + Vite
+# "Multi Page" Single Page Application (Routing)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React only takes care of writing, rendering and keeping the DOM up to date with the current state of the application, hence why we refer to it as a library rather than a framework. We will be using another library to enable us to simply make use of some advanced functionality from the browser, managing the URL and enabling the use of the History API without us having to think to hard about this.
 
-Currently, two official plugins are available:
+## Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React Router](https://reactrouter.com/en/main)
